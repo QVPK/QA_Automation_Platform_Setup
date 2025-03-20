@@ -23,11 +23,11 @@ Before you begin, ensure you have the following installed:
    cd QA_Automation_Platform_Setup
 
 2. **Navigate to the Project Directory:**
-   bash
+   ```bash
    cd QA_Automation_Setup
    
 ## Usage Instructions
-# Run Tests:
+### Run Tests:
 Specific test execution instructions will be added as frameworks are selected.
 
 ## Contact
