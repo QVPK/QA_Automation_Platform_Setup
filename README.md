@@ -1,13 +1,12 @@
 # QA_Automation_Platform_Setup
 
 ## Project Overview
-This repository supports the initial setup of our QA automation platform, designed to enhance testing efficiency and scalability. It leverages GitHub for version control, Jenkins for CI/CD integration, and aims to use Docker for consistent testing environments.
+This project aims to establish a comprehensive QA automation platform to enhance the efficiency and scalability of our testing processes. By integrating cutting-edge tools and practices, the platform will streamline our testing workflows, reduce manual effort, and improve overall software quality. This repository will serve as the foundation for collaboration among QA, development, and operations teams.
 
 ## Project Goals
-Develop a flexible and scalable automation platform that enhances testing efficiency and accommodates future tools and frameworks.
-- **Improve Testing Efficiency:** Automate repetitive test cases to minimize manual testing and speed up feedback cycles.
-- **Increase Test Coverage:** Use automated tools to expand test breadth and depth, effectively identifying bugs.
-- **Enhance Collaboration:** Facilitate seamless code management and collaboration using GitHub repositories.
+- **Increase Testing Efficiency:** Automate repetitive testing tasks to reduce time and resources spent on manual testing.
+- **Enhance Scalability:** Ensure the platform can accommodate growing testing requirements and adapt to new tools or frameworks.
+- **Improve Software Quality:** Achieve higher test coverage and more reliable results, leading to better product quality and user satisfaction.
 
 ## Setup Instructions
 
@@ -23,12 +22,14 @@ Before you begin, ensure you have the following installed:
    cd QA_Automation_Platform_Setup
 
 2. **Navigate to the Project Directory:**
+   - Open your terminal or command prompt.
+   - Change directory to the cloned repository:
    ```bash
    cd QA_Automation_Setup
    
 ## Usage Instructions
 ### Run Tests:
-Specific test execution instructions will be added as frameworks are selected.
+Detailed test execution instructions will be added as testing frameworks and processes are established.
 
 ## Contact
-qvpk@novonordisk.com
+For project support or inquiries, contact the QA Lead at qvpk@novonordisk.com
